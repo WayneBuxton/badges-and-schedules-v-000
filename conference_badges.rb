@@ -19,5 +19,5 @@ end
 def printer
   puts batch_badge_creator.each_line do |attendees|
   end
-  printer(attendees)
+  printer
 end
