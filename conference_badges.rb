@@ -19,3 +19,4 @@ end
 def printer(attendees)
   puts batch_badge_creator(name)
 end
+binding.pry
